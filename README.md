@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Luteolin
+- 👋 Hi, I’m @JashSureja
 - 👀 I’m interested in Ethical hacking & building real life useful projects
 - 🌱 I’m currently learning CSE and externally a 3-month ethical hacking course
 - 💞️ I’m looking to collaborate on different projects focusing real life problem-solutions
