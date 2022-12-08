@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JashSureja
-- 👀 I’m interested in Ethical hacking & learning about android os
+- 👀 I’m interested in problem solving and building websites, apps, etc. 
 - 🌱 I’m currently pursuing Computer Engineering.
-- 💞️ I’m looking to collaborate on different projects based on app making, security testing, android development.
+- 💞️ I’m looking to collaborate on different projects based on AI, security, android.
 - 📫 How to reach me sureja.jash@gmail.com
 
 <!---
