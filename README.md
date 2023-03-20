@@ -11,12 +11,19 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Jash Sureja</h1>
 <h3 align="center">Developer</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/jashsureja/">
-  <img align="center" alt="Linkedin" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 <a href="https://www.instagram.com/jash_sureja/">
-  <img align="center" alt="Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center" alt="Instagram" width="28px" src="https://github.com/JashSureja/JashSureja/blob/main/instagram.png" />
 </a>
+<a href="https://www.linkedin.com/in/jashsureja/">
+  <img align="center" alt="Linkedin" width="36px" src="https://github.com/JashSureja/JashSureja/blob/main/linkedin.png" />
+</a>
+<a href="https://www.twitter.com/jashsureja/">
+  <img align="center" alt="Twitter" width="24px" src="https://github.com/JashSureja/JashSureja/blob/main/twitter.png" />
+</a>
+<a href="https://www.twitter.com/jashsureja/">
+  <img align="center" alt="Twitter" width="24px" src="https://w7.pngwing.com/pngs/118/895/png-transparent-hackerrank-logos-and-brands-line-filled-icon.png" />
+</a>
+
  </p>
  <br/>
 <img align='right' src='' width='300"'>
