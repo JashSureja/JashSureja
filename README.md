@@ -20,10 +20,10 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.twitter.com/jashsureja/">
   <img align="center" alt="Twitter" width="24px" src="https://github.com/JashSureja/JashSureja/blob/main/twitter.png" />
 </a>
-<a href="https://www.twitter.com/jashsureja/">
+<a href="https://stackoverflow.com/users/17894131/jash-sureja">
   <img align="center" alt="Stackoverflow" width="24px" src="https://github.com/JashSureja/JashSureja/blob/main/stackoverflow.png" />
 </a>
-<a href="https://stackoverflow.com/users/17894131/jash-sureja">
+<a href="https://www.hackerrank.com/2980jash">
   <img align="center" alt="Hackerrank" width="24px" src="https://github.com/JashSureja/JashSureja/blob/main/hackerrank.png" />
 </a>
 
