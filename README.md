@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
  </p>
  <br/>
 <hr/>
-<img align='right' src='https://github.com/JashSureja/JashSureja/blob/main/computer-animation.gif' height='200px' width='400px' margin-bottom="20px">
+<img align='right' src='https://github.com/JashSureja/JashSureja/blob/main/computer_animation(1).gif' height='200px' width='400px' margin-bottom="20px">
 <ul>
 <li>I am currently doing my B.Tech from SPPU, Pune.</li><br/>
 <li>I love to explore and learn about new things.</li><br/>
