@@ -47,7 +47,9 @@ You can click the Preview link to take a look at your changes.
     <li>C++</li>
     <li>HTML</li>
     <li>CSS</li>
-  </ul></li><br/>
+  </ul>
+</li>
+<br/>
 <li>Currently working on</li>
  <ul>
     <li>Creating a Business Website</li>
