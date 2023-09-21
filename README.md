@@ -47,14 +47,11 @@ You can click the Preview link to take a look at your changes.
     <li>C++</li>
     <li>HTML</li>
     <li>CSS</li>
+    <li>JavaScript</li>
   </ul>
 </li>
 <br/>
-<li>Currently working on</li>
- <ul>
-    <li>Creating a Business Website</li>
-    <li>Android app development using Flutter</li>
- </ul>
+<li>Currently working on a Business Website</li>
 </ul>
 
 <!---[![trophy](https://github-profile-trophy.vercel.app/?username=JashSureja&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)--->
