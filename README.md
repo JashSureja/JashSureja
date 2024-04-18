@@ -32,26 +32,27 @@ You can click the Preview link to take a look at your changes.
 <hr/>
 <img align='right' src='https://github.com/JashSureja/JashSureja/blob/main/computer_animation(1).gif' height='200px' width='400px' margin-bottom="20px">
 <ul>
-<li>I am currently doing my B.Tech from SPPU, Pune.</li><br/>
+<li>I am currently pursuing my B.Tech from SPPU, Pune.</li><br/>
 <li>I love to explore and learn about new things.</li><br/>
-<li>I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems.</li><br/>
-<li>I love open source projects where people can collaborate, and build great projects.</li><br/>
+<li>I'm always ready to take up challenges.</li><br/>
+<li>I am always up to date with cutting edge technologies.</li><br/>
 <hr/>
 </ul>
 
 <ul>
-<li>Known languages
+<li>Skillful in
 
   <ul>
     <li>Python</li>
     <li>C++</li>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
+    <li>Web development</li>
+    <li>Vertex AI</li>
+    <li>Google Cloud Platform</li>
+    <li>Langchain</li>
   </ul>
 </li>
 <br/>
-<li>Currently working on a Business Website</li>
+<li>Currently working as a Generative AI Intern</li>
 </ul>
 
 <!---[![trophy](https://github-profile-trophy.vercel.app/?username=JashSureja&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)--->
