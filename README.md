@@ -33,9 +33,9 @@ You can click the Preview link to take a look at your changes.
 <img align='right' src='https://github.com/JashSureja/JashSureja/blob/main/computer_animation(1).gif' height='200px' width='400px' margin-bottom="20px">
 <ul>
 <li>I am currently pursuing my B.Tech from SPPU, Pune.</li><br/>
-<li>I love to explore and learn about new things.</li><br/>
-<li>I'm always ready to take up challenges.</li><br/>
-<li>I am always up to date with cutting edge technologies.</li><br/>
+<li>Exploring the realm of Generative AI.</li><br/>
+<li>Ready to take up challenges.</li><br/>
+<li>Always trying to stay up to date with new tech.</li><br/>
 <hr/>
 </ul>
 
@@ -49,6 +49,8 @@ You can click the Preview link to take a look at your changes.
     <li>Vertex AI</li>
     <li>Google Cloud Platform</li>
     <li>Langchain</li>
+    <li>MongoDB</li>
+    <li>PostgreSQL</li>
   </ul>
 </li>
 <br/>
